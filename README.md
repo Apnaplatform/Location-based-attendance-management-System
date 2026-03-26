@@ -2,7 +2,7 @@
 
 A Flask-based web application that enables institutions to manage student attendance using location verification, admin approval, and roll number tracking.
 
----
+Project Link : https://lbams.onrender.com
 
 ## 🚀 Features
 
@@ -43,7 +43,7 @@ A Flask-based web application that enables institutions to manage student attend
 1. Clone the repository
 
 ```bash
-git clone https://github.com/prateek-sharma7983/LBAMS.git
+https://github.com/Apnaplatform/LAMS
 ```
 
 2. Navigate to project folder
@@ -84,7 +84,7 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Author
 
-**Prateek Sharma**
+**Satyam Mishra**
 
 ---
 
