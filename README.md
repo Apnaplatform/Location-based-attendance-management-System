@@ -43,7 +43,7 @@ Project Link : https://github.com/Apnaplatform/Location-Access-Attendance-System
 1. Clone the repository
 
 ```bash
-https://github.com/Apnaplatform/LAMS
+https://github.com/Apnaplatform/Location-Access-Attendance-System
 ```
 
 2. Navigate to project folder
